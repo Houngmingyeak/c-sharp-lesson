@@ -18,6 +18,16 @@
             Console.WriteLine("Sub= " + Ca.sub(A, B));
 
             Console.ReadKey();
+
+
+            Console.WriteLine();
+            Console.WriteLine("Calling the method from ConvertGramToPound class");
+            // Calling the method from ConvertGramToPound class
+            ConvertGramToPound.Run();
+
+            Console.ReadKey();
+
+            //int num = int.Parse(Console.ReadLine());
         }
     }
 }

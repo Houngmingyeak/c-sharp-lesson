@@ -12,3 +12,4 @@ D:\WESTERN\Year3-Semester1\C#\First-Day\obj\Debug\net10.0\refint\First-Day.dll
 D:\WESTERN\Year3-Semester1\C#\First-Day\obj\Debug\net10.0\First-Day.pdb
 D:\WESTERN\Year3-Semester1\C#\First-Day\obj\Debug\net10.0\First-Day.genruntimeconfig.cache
 D:\WESTERN\Year3-Semester1\C#\First-Day\obj\Debug\net10.0\ref\First-Day.dll
+D:\WESTERN\Year3-Semester1\C#\First-Day\obj\Debug\net10.0\First-Day.sourcelink.json
