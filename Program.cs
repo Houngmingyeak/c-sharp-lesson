@@ -1,4 +1,6 @@
-﻿namespace First_Day
+﻿using First_Day.classwork;
+
+namespace First_Day
 {
     internal class Program
     {
@@ -48,10 +50,20 @@
 
 
             //------------------------------------------------------------------------
+            //Console.WriteLine();
+            //Console.WriteLine("Employee Salary");
+            //// Call the method from Calculator class
+            //EmplyeeSalary.Run();
+
+            //Console.ReadKey();
+            //------------------------------------------------------------------------
+
+
+            //------------------------------------------------------------------------
             Console.WriteLine();
-            Console.WriteLine("Employee Salary");
+            Console.WriteLine("Bank Salary");
             // Call the method from Calculator class
-            EmplyeeSalary.Run();
+            BankAccount.Run();
 
             Console.ReadKey();
             //------------------------------------------------------------------------

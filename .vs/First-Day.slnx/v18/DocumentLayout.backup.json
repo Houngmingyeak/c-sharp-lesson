@@ -3,24 +3,28 @@
   "WorkspaceRootPath": "D:\\WESTERN\\Year3-Semester1\\C#\\First-Day\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{247483DF-69FC-CCC4-3401-8747CE939BF5}|First-Day.csproj|d:\\western\\year3-semester1\\c#\\first-day\\classwork\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{247483DF-69FC-CCC4-3401-8747CE939BF5}|First-Day.csproj|solutionrelative:classwork\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{247483DF-69FC-CCC4-3401-8747CE939BF5}|First-Day.csproj|d:\\western\\year3-semester1\\c#\\first-day\\classwork\\subjectscorecalculators.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{247483DF-69FC-CCC4-3401-8747CE939BF5}|First-Day.csproj|solutionrelative:classwork\\subjectscorecalculators.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{247483DF-69FC-CCC4-3401-8747CE939BF5}|First-Day.csproj|d:\\western\\year3-semester1\\c#\\first-day\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{247483DF-69FC-CCC4-3401-8747CE939BF5}|First-Day.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{247483DF-69FC-CCC4-3401-8747CE939BF5}|First-Day.csproj|d:\\western\\year3-semester1\\c#\\first-day\\emplyeesalary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{247483DF-69FC-CCC4-3401-8747CE939BF5}|First-Day.csproj|solutionrelative:emplyeesalary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{247483DF-69FC-CCC4-3401-8747CE939BF5}|First-Day.csproj|d:\\western\\year3-semester1\\c#\\first-day\\classwork\\emplyeesalary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{247483DF-69FC-CCC4-3401-8747CE939BF5}|First-Day.csproj|solutionrelative:classwork\\emplyeesalary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{247483DF-69FC-CCC4-3401-8747CE939BF5}|First-Day.csproj|d:\\western\\year3-semester1\\c#\\first-day\\subjectscorecalculators.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{247483DF-69FC-CCC4-3401-8747CE939BF5}|First-Day.csproj|solutionrelative:subjectscorecalculators.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{247483DF-69FC-CCC4-3401-8747CE939BF5}|First-Day.csproj|d:\\western\\year3-semester1\\c#\\first-day\\classwork\\convertgramtopound.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{247483DF-69FC-CCC4-3401-8747CE939BF5}|First-Day.csproj|solutionrelative:classwork\\convertgramtopound.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{247483DF-69FC-CCC4-3401-8747CE939BF5}|First-Day.csproj|d:\\western\\year3-semester1\\c#\\first-day\\convertgramtopound.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{247483DF-69FC-CCC4-3401-8747CE939BF5}|First-Day.csproj|solutionrelative:convertgramtopound.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{247483DF-69FC-CCC4-3401-8747CE939BF5}|First-Day.csproj|d:\\western\\year3-semester1\\c#\\first-day\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{247483DF-69FC-CCC4-3401-8747CE939BF5}|First-Day.csproj|solutionrelative:calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{247483DF-69FC-CCC4-3401-8747CE939BF5}|First-Day.csproj|d:\\western\\year3-semester1\\c#\\first-day\\classwork\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{247483DF-69FC-CCC4-3401-8747CE939BF5}|First-Day.csproj|solutionrelative:classwork\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{247483DF-69FC-CCC4-3401-8747CE939BF5}|First-Day.csproj|d:\\western\\year3-semester1\\c#\\first-day\\first-day.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -34,16 +38,29 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "BankAccount.cs",
+              "DocumentMoniker": "D:\\WESTERN\\Year3-Semester1\\C#\\First-Day\\classwork\\BankAccount.cs",
+              "RelativeDocumentMoniker": "classwork\\BankAccount.cs",
+              "ToolTip": "D:\\WESTERN\\Year3-Semester1\\C#\\First-Day\\classwork\\BankAccount.cs*",
+              "RelativeToolTip": "classwork\\BankAccount.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-27T03:36:16.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "EmplyeeSalary.cs",
-              "DocumentMoniker": "D:\\WESTERN\\Year3-Semester1\\C#\\First-Day\\EmplyeeSalary.cs",
-              "RelativeDocumentMoniker": "EmplyeeSalary.cs",
-              "ToolTip": "D:\\WESTERN\\Year3-Semester1\\C#\\First-Day\\EmplyeeSalary.cs",
-              "RelativeToolTip": "EmplyeeSalary.cs",
+              "DocumentMoniker": "D:\\WESTERN\\Year3-Semester1\\C#\\First-Day\\classwork\\EmplyeeSalary.cs",
+              "RelativeDocumentMoniker": "classwork\\EmplyeeSalary.cs",
+              "ToolTip": "D:\\WESTERN\\Year3-Semester1\\C#\\First-Day\\classwork\\EmplyeeSalary.cs",
+              "RelativeToolTip": "classwork\\EmplyeeSalary.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAA2wB4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-08-27T03:02:47.68Z",
@@ -51,31 +68,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "SubjectScoreCalculators.cs",
-              "DocumentMoniker": "D:\\WESTERN\\Year3-Semester1\\C#\\First-Day\\SubjectScoreCalculators.cs",
-              "RelativeDocumentMoniker": "SubjectScoreCalculators.cs",
-              "ToolTip": "D:\\WESTERN\\Year3-Semester1\\C#\\First-Day\\SubjectScoreCalculators.cs",
-              "RelativeToolTip": "SubjectScoreCalculators.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAA7AAAAAAAAAA==",
+              "DocumentMoniker": "D:\\WESTERN\\Year3-Semester1\\C#\\First-Day\\classwork\\SubjectScoreCalculators.cs",
+              "RelativeDocumentMoniker": "classwork\\SubjectScoreCalculators.cs",
+              "ToolTip": "D:\\WESTERN\\Year3-Semester1\\C#\\First-Day\\classwork\\SubjectScoreCalculators.cs",
+              "RelativeToolTip": "classwork\\SubjectScoreCalculators.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-27T02:17:39.177Z"
+              "WhenOpened": "2026-08-27T02:17:39.177Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "ConvertGramToPound.cs",
-              "DocumentMoniker": "D:\\WESTERN\\Year3-Semester1\\C#\\First-Day\\ConvertGramToPound.cs",
-              "RelativeDocumentMoniker": "ConvertGramToPound.cs",
-              "ToolTip": "D:\\WESTERN\\Year3-Semester1\\C#\\First-Day\\ConvertGramToPound.cs",
-              "RelativeToolTip": "ConvertGramToPound.cs",
+              "DocumentMoniker": "D:\\WESTERN\\Year3-Semester1\\C#\\First-Day\\classwork\\ConvertGramToPound.cs",
+              "RelativeDocumentMoniker": "classwork\\ConvertGramToPound.cs",
+              "ToolTip": "D:\\WESTERN\\Year3-Semester1\\C#\\First-Day\\classwork\\ConvertGramToPound.cs",
+              "RelativeToolTip": "classwork\\ConvertGramToPound.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-27T01:58:21.971Z"
+              "WhenOpened": "2026-08-27T01:58:21.971Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "First-Day.csproj",
               "DocumentMoniker": "D:\\WESTERN\\Year3-Semester1\\C#\\First-Day\\First-Day.csproj",
               "RelativeDocumentMoniker": "First-Day.csproj",
@@ -87,25 +106,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Calculator.cs",
-              "DocumentMoniker": "D:\\WESTERN\\Year3-Semester1\\C#\\First-Day\\Calculator.cs",
-              "RelativeDocumentMoniker": "Calculator.cs",
-              "ToolTip": "D:\\WESTERN\\Year3-Semester1\\C#\\First-Day\\Calculator.cs",
-              "RelativeToolTip": "Calculator.cs",
+              "DocumentMoniker": "D:\\WESTERN\\Year3-Semester1\\C#\\First-Day\\classwork\\Calculator.cs",
+              "RelativeDocumentMoniker": "classwork\\Calculator.cs",
+              "ToolTip": "D:\\WESTERN\\Year3-Semester1\\C#\\First-Day\\classwork\\Calculator.cs",
+              "RelativeToolTip": "classwork\\Calculator.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-20T03:44:25.86Z"
+              "WhenOpened": "2026-08-20T03:44:25.86Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\WESTERN\\Year3-Semester1\\C#\\First-Day\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "D:\\WESTERN\\Year3-Semester1\\C#\\First-Day\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAACsAAAAAAAAAAADwvzwAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAACoAAAAAAAAAAAAmwD0AAABWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-08-20T03:13:51.171Z",
               "EditorCaption": ""

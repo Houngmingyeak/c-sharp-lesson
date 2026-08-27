@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace First_Day
+namespace First_Day.classwork
 {
     class EmplyeeSalary
     {

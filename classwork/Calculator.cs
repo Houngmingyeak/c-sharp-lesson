@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace First_Day
+namespace First_Day.classwork
 {
     internal class Calculator
     {
