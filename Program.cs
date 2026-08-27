@@ -38,14 +38,23 @@
 
 
             //------------------------------------------------------------------------
+            //Console.WriteLine();
+            //Console.WriteLine("Calling the method from Calculator class");
+            //// Call the method from Calculator class
+            //SubjectScoreCalculators.CalculateScores();
+
+            //Console.ReadKey();
+            //------------------------------------------------------------------------
+
+
+            //------------------------------------------------------------------------
             Console.WriteLine();
-            Console.WriteLine("Calling the method from Calculator class");
+            Console.WriteLine("Employee Salary");
             // Call the method from Calculator class
-            SubjectScoreCalculators.CalculateScores();
+            EmplyeeSalary.Run();
 
             Console.ReadKey();
             //------------------------------------------------------------------------
-
 
         }
     }
