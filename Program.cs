@@ -4,7 +4,29 @@ using First_Day.Function;
 namespace First_Day
 {
     internal class Program
-    {
+    {   
+
+        class Student
+        {
+            private string name;
+            private int age;
+            public string id;
+
+            public static int count = 0;
+            public Student(string name, int age, string id)
+            {
+                this.name = name;
+                this.age = age;
+                this.id = id;
+                count++;
+            }
+            public void DisplayInfo()
+            {
+                Console.WriteLine("Name: " + name);
+                Console.WriteLine("Age: " + age);
+                Console.WriteLine("ID: " + id);
+            }
+        }
         static void Main(string[] args)
         {
             //------------------------------------------------------------------------
@@ -95,23 +117,34 @@ namespace First_Day
 
 
 
-            // Declare and initialize variables
-            double aValue = 78.926;
-            double result1, result2;
+            //// Declare and initialize variables
+            //double aValue = 78.926;
+            //double result1, result2;
 
-            // Math.Floor -> round down to nearest integer
-            result1 = Math.Floor(aValue);                  // result1 = 78
+            //// Math.Floor -> round down to nearest integer
+            //result1 = Math.Floor(aValue);                  // result1 = 78
 
-            // Math.Sqrt -> square root
-            result2 = Math.Sqrt(aValue);                  // result2 ≈ 8.88403061678651
+            //// Math.Sqrt -> square root
+            //result2 = Math.Sqrt(aValue);                  // result2 ≈ 8.88403061678651
 
-            // Display results
-            Console.WriteLine("Original value: " + aValue);
-            Console.WriteLine("Math.Floor(aValue) = " + result1);
-            Console.WriteLine("Math.Sqrt(aValue) = " + result2);
+            //// Display results
+            //Console.WriteLine("Original value: " + aValue);
+            //Console.WriteLine("Math.Floor(aValue) = " + result1);
+            //Console.WriteLine("Math.Sqrt(aValue) = " + result2);
 
-            // Math.Round -> round to 2 decimal places
-            Console.WriteLine("aValue rounded to 2 decimal places is {0}", Math.Round(aValue, 2));
+            //// Math.Round -> round to 2 decimal places
+            //Console.WriteLine("aValue rounded to 2 decimal places is {0}", Math.Round(aValue, 2));
+
+
+
+
+            Student student1 = new Student("Mingyeak", 20, "S001");
+            student1.DisplayInfo();
+
+            Student student2 = new Student("Sokha", 22, "S002");
+            student2.DisplayInfo();
+
+
         }
     }
 }
