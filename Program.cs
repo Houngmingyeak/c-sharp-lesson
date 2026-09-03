@@ -70,12 +70,48 @@ namespace First_Day
             //------------------------------------------------------------------------
 
 
-            Demo demo = new Demo();
-            demo.DisplayMessage("Mingyeak!");
 
-            int sum = demo.Add(5, 10);
-            Console.WriteLine("Sum: " + sum);
+            //------------------------------------------------------------------------
+            //Demo demo = new Demo();
+            //demo.DisplayMessage("Mingyeak!");
 
+            //int sum = demo.Add(5, 10);
+            //Console.WriteLine("Sum: " + sum);
+            //------------------------------------------------------------------------
+
+
+
+            //------------------------------------------------------------------------
+            //int age;
+            //string value;
+
+            //Console.Write("Enter your age: ");
+            //value = Console.ReadLine()!;
+            //age = int.Parse(value);
+
+            //Console.WriteLine("Your age next year" + " will be {0} ", ++age);
+            //Console.Read();
+            //------------------------------------------------------------------------
+
+
+
+            // Declare and initialize variables
+            double aValue = 78.926;
+            double result1, result2;
+
+            // Math.Floor -> round down to nearest integer
+            result1 = Math.Floor(aValue);                  // result1 = 78
+
+            // Math.Sqrt -> square root
+            result2 = Math.Sqrt(aValue);                  // result2 ≈ 8.88403061678651
+
+            // Display results
+            Console.WriteLine("Original value: " + aValue);
+            Console.WriteLine("Math.Floor(aValue) = " + result1);
+            Console.WriteLine("Math.Sqrt(aValue) = " + result2);
+
+            // Math.Round -> round to 2 decimal places
+            Console.WriteLine("aValue rounded to 2 decimal places is {0}", Math.Round(aValue, 2));
         }
     }
 }
