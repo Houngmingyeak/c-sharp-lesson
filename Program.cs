@@ -1,4 +1,5 @@
 ﻿using First_Day.classwork;
+using First_Day.Function;
 
 namespace First_Day
 {
@@ -60,13 +61,20 @@ namespace First_Day
 
 
             //------------------------------------------------------------------------
-            Console.WriteLine();
-            Console.WriteLine("Bank Salary");
-            // Call the method from Calculator class
-            BankAccount.Run();
+            //Console.WriteLine();
+            //Console.WriteLine("Bank Salary");
+            //// Call the method from Calculator class
+            //BankAccount.Run();
 
-            Console.ReadKey();
+            //Console.ReadKey();
             //------------------------------------------------------------------------
+
+
+            Demo demo = new Demo();
+            demo.DisplayMessage("Mingyeak!");
+
+            int sum = demo.Add(5, 10);
+            Console.WriteLine("Sum: " + sum);
 
         }
     }
